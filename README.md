@@ -32,6 +32,7 @@ Deployment:
 The application is built using Streamlit, allowing it to run as a web-based interactive tool
 
 Key Features
+
 ✅ User-friendly Streamlit UI for easy input
 ✅ Dynamic Pourbaix diagram generation
 ✅ Customizable equilibrium potential values
